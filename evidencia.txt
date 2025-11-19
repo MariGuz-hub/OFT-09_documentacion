@@ -1,1 +1,2 @@
 Práctica 2 de Git y GitHub
+Cambio diferente en la rama main para generar conflicto
